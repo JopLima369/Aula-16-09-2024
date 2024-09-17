@@ -1,0 +1,5 @@
+Criar uma pagina onde o usuario irá entrar com o valor total de uma compra, o mesmo tera que selecionar a quantidade de parcelas dessa compra (TAG select)
+
+Pegar o valor da compra dividir pela quantidade de compra ou a vista e colocar o valor da parcela ou a vista em uma caixa com uma cor de fundo aleatoria.
+
+Java Css HTML
